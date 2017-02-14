@@ -9,13 +9,13 @@ solve this in JavaScript" and then trying to say it in Ruby.
 
 # Setup
 
-Install 'rest-client'
+- [x] Install 'rest-client'
 
 ```
 gem install 'rest-client'
 ```
 
-Require 'rest-client' and 'JSON' to hit the Star Wars API 
+- [x] Require 'rest-client' and 'JSON' to hit the Star Wars API 
 
 ```
 require 'rest-client'
@@ -26,26 +26,26 @@ https://swapi.co
 
 # Can you?
 
-- Use the Rest-Client to hit the Star Wars API and get a response of all the "people" resource
-- Use the JSON library to parse the response
-- Manipute the parsed Hashes and Arrays to print out all the characters names to the Terminal
+- [x] Use the Rest-Client to hit the Star Wars API and get a response of all the "people" resource
+- [x] Use the JSON library to parse the response
+- [x] Manipulate the parsed Hashes and Arrays to print out all the characters names to the Terminal
 
 # Can you?
 
-- Sum all the characters' weights
+- [ ] Sum all the characters' weights
 
-Print out all the starships names
+- [ ] Print out all the starships names
 
-- Sum the cost_in_credits of all the ships
+- [ ] Sum the cost_in_credits of all the ships
 
-- Calculate the average cost of a ship?
+- [ ] Calculate the average cost of a ship?
 
 # File System Practice
 
 Use Ruby's file class to parse a CSV file and generate a hash
 
-- Print out how many men and women there are
-- Print out the names of only people born after 2000.
+- [ ] Print out how many men and women there are
+- [ ] Print out the names of only people born after 2000.
 
 # Bonus
 
